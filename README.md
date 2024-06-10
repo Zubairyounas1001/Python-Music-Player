@@ -30,19 +30,26 @@ To set up Python-Music-Player on your local machine, follow these steps:
     ```bash
     pip install -r requirements.txt
     ```
+5. Download some images of 800 x 400 resolution for the Music Player's background.
+6. Create a directory named `Images` in the project root:
+    ```bash
+    mkdir Images
+    ```
+7. Copy and paste the downloaded images into the `Images` folder.
 
 ## Usage
 
 1. Open the project in your preferred IDE (VSCode or PyCharm).
 2. Run the main script:
     ```bash
-    python player.py
+    python main.py
     ```
 3. Use the on-screen buttons to control your music:
     - **Play**: Start playing the current song
     - **Stop**: Stop the music
     - **Previous**: Play the previous song
     - **Next**: Play the next song
+    - **Autoplay**: Toggle autoplay mode
     - **Color Modes**: Switch between different color themes
 
 ## Contributing
