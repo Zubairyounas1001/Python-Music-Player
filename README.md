@@ -1,7 +1,5 @@
 # Python-Music-Player
 
-![Python Music Player](https://your-image-link-here.com)  <!-- Replace with actual image URL -->
-
 ## Description
 
 Python-Music-Player is an open-source project that automates the playback of mp3 songs with various functionalities such as generating playlists, play, stop, previous & next buttons, and colorful modes in different colors.
