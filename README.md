@@ -36,7 +36,7 @@ To set up Python-Music-Player on your local machine, follow these steps:
 1. Open the project in your preferred IDE (VSCode or PyCharm).
 2. Run the main script:
     ```bash
-    python main.py
+    python player.py
     ```
 3. Use the on-screen buttons to control your music:
     - **Play**: Start playing the current song
